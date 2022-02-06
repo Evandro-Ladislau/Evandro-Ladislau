@@ -4,8 +4,8 @@
 - 🔭 Hoje Trabalho com suporte técnico
 - 🌱 Estudando Analise e desenvolvimento de sistemas - UNIMAR
 - 📫 Contrate-me no email: evandroladislau23@gmail.com
-- 😄 Pronouns: ele/dele
-- 
+- 😄 Pronomes: ele/dele
+
 <div align="center">
   <a href="https://www.linkedin.com/in/evandro-ladislau/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandro-Ladislau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
