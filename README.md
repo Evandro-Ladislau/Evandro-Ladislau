@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Evandro Ladisau 👋
 
 
-- 🔭 Hoje Trabalho com suporte técnico
+- 🔭 Hoje Trabalho com estagiário na Engie Brasil
 - 🌱 Estudando Analise e desenvolvimento de sistemas - UNIMAR
 - 📫 Contrate-me no email: evandroladislau23@gmail.com
 - 😄 Pronomes: ele/dele
