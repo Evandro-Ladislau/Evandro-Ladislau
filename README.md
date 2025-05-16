@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje Trabalho como estagiário no Exercito Brasileiro
-- 🫡  3° Sargento Técnico - Desenvolvedor de Software
+- 🎖️  3° Sargento Técnico - Desenvolvedor de Software
 - 🌱 Formado em Analise e desenvolvimento de sistemas - UNIMAR
 - 📫 Contrate-me no email: evandroladislau23@gmail.com
 - 😄 Pronomes: ele/dele
