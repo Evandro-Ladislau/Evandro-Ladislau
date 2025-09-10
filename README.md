@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/evandro-ladislau/">
-    <img height="180em" src="https://github-readme-stats-kappa-gules-72.vercel.app/api?username=Evandro-Ladislau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-kappa-gules-72.vercel.app/api/top-langs/?username=Evandro-Ladislau&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-eosin-six-73.vercel.app/api?username=Evandro-Ladislau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eosin-six-73.vercel.app/api/top-langs/?username=Evandro-Ladislau&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
